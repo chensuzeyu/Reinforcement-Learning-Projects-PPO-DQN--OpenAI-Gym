@@ -2,6 +2,13 @@
 
 This repository contains three reinforcement learning projects using the OpenAI Gym environment. The projects focus on different algorithms and environments: Proximal Policy Optimization (PPO) for the CartPole-v1 environment and Deep Q-Network (DQN) for the LunarLander-v2 environment.
 
+## Visualization
+### PPO - CartPole-v1
+![PPO CartPole-v1](image/PPO-CartPole-v1.gif)
+
+### DQN - LunarLander-v2
+![DQN LunarLander-v2](image/DQN-LunarLander-v2.gif)
+
 ## Project Structure
 - `PPO-2-CartPole-v1-play.py`: Visualize the performance of a trained PPO model on the CartPole-v1 environment.
 - `PPO-2-CartPole-v1-train.py`: Train a PPO model on the CartPole-v1 environment.
@@ -43,13 +50,6 @@ To train and test a DQN agent on the LunarLander-v2 environment, run:
 ```bash
 python DQN-LunarLander-v2.py
 ```
-
-## Visualization
-### PPO - CartPole-v1
-![PPO CartPole-v1](image/PPO-CartPole-v1.gif)
-
-### DQN - LunarLander-v2
-![DQN LunarLander-v2](image/DQN-LunarLander-v2.gif)
 
 ## Contributing
 Contributions are welcome! Please feel free to open an issue or submit a pull request.
