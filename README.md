@@ -46,10 +46,10 @@ python DQN-LunarLander-v2.py
 
 ## Visualization
 ### PPO - CartPole-v1
-![PPO CartPole-v1](![image](https://github.com/user-attachments/assets/9aab6e29-2ebf-4f8c-9ad0-04c3e6dae9ab))
+![PPO CartPole-v1](image/PPO-CartPole-v1.gif)
 
 ### DQN - LunarLander-v2
-![DQN LunarLander-v2](![image](https://github.com/user-attachments/assets/b99ca332-7edc-46f5-b0b2-d39d0d2ac14f))
+![DQN LunarLander-v2](image/DQN-LunarLander-v2.gif)
 
 ## Contributing
 Contributions are welcome! Please feel free to open an issue or submit a pull request.
